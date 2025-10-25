@@ -28,7 +28,7 @@ Permite registrar despesas e receitas, gerar relatórios e visualizar gráficos 
 
 ```bash
 # Clonar o repositório
-git clone https://github.com/seuusuario/personal-finance-manager.git
+git clone https://github.com/ajoao42/personal-finance-manager.git
 cd personal-finance-manager
 
 # Restaurar dependências
